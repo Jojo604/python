@@ -26,4 +26,10 @@ while i<3:
     else:
        print("ingen anka nu")
 
-       print("\______________")
+if hittat:
+   print("")
+
+
+
+
+print("\______________")
